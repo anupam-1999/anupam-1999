@@ -44,7 +44,7 @@ I enjoy solving backend problems where **performance, scalability, reliability, 
                          Clients
                             │
                             ▼
-                    GraphQL / REST APIs
+                  GraphQL / REST APIs
                             │
                             ▼
                   NestJS + TypeScript
@@ -57,17 +57,14 @@ I enjoy solving backend problems where **performance, scalability, reliability, 
                                            │
                                            ▼
                                           DB2
-              │
-              ▼
-       AWS / Kubernetes
-              │
-       ┌──────┴──────┐
-       ▼             ▼
-    Argo CD      Observability
-                  Grafana
-                 Prometheus
-```
 
+              ┌─────────────────────────────┐
+              │       AWS / Kubernetes      │
+              │                             │
+              │  Argo CD · Grafana          │
+              │  Prometheus                 │
+              └─────────────────────────────┘
+```
 ---
 
 ## 🚀 Current Engineering Focus

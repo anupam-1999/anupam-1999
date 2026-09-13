@@ -66,6 +66,7 @@ I build **high-performance backend systems** with a focus on scalability, reliab
 
 
 🏗️ Featured Engineering Projects
+
 🚀 Production-Grade API
 
 NestJS · TypeScript · GraphQL · PostgreSQL · Redis · Docker
@@ -185,12 +186,6 @@ Heritage Institute of Technology, Kolkata
 I'm interested in building backend platforms, distributed systems, APIs, cloud infrastructure and data-intensive applications.
 
 GitHub · Email
-
-
-The experience/achievement details above are based on your resume. :contentReference[oaicite:0]{index=0}
-
-### 4. Scroll down
-
 At the bottom you'll see:
 
 **Commit changes**

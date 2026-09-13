@@ -2,7 +2,7 @@
 
 ### Backend Engineer · Distributed Systems · APIs · Cloud
 
-I’m a Software Engineer with 5+ years of experience building scalable backend systems, APIs, microservices, and data pipelines. My core focus is TypeScript, NestJS, GraphQL, PostgreSQL, Redis, Kafka, AWS, Kubernetes, observability, performance, and reliable delivery.
+I’m a Software Engineer with 4+ years of experience building scalable backend systems, APIs, microservices, and data pipelines. My core focus is TypeScript, NestJS, GraphQL, PostgreSQL, Redis, Kafka, AWS, Kubernetes, observability, performance, and reliable delivery.
 
 I enjoy solving backend problems where **performance, scalability, reliability, security, and maintainability** matter.
 
